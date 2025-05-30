@@ -1,15 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Harshada</h1>
-<h3 align="center">A passionate aspiring Software Engineer from India</h3>
+<h3 align="center">Working as an OpenShift Engineer at Red Hat </h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/software-engineer-f%C3%AAmea-38405383.jpg">
 
-- 🌱 I’m currently learning **DevOps,AWS,Shell Scripting**
+- 🌱 I’m currently working on the following technologies:
+     **Container orchastration platforms, Containarization platforms , Linux, CI/CD**
 
 - 📝 I regularly write articles on [https://medium.com/@Harshada_Patil](https://medium.com/@Harshada_Patil)
 
-- 💬 Ask me about **Kubernetes, Ansible, Git&GitHub, GitLab, Terraform**
+- 💬 Ask me about **Kubernetes, Ansible, Git&GitHub, GitLab**
 
-- 📫 How to reach me **harshadasanjaypatil25@gmail.com 9833540475**
+- 📫 How to reach me **harshpatilk8s@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J0aV3PCzjrdQgmLBDmuRbfZkETi67MMS/view](https://drive.google.com/file/d/1J0aV3PCzjrdQgmLBDmuRbfZkETi67MMS/view)
 
