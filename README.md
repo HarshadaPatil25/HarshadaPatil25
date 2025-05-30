@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/software-engineer-f%C3%AAmea-38405383.jpg">
 
 - 🌱 I’m currently working on the following technologies:
-- **Container orchastration platforms, Containarization platforms , Linux, CI/CD**
+     - **Container orchastration platforms, Containarization platforms , Linux, CI/CD**
 
 - 📝 I regularly write articles on [https://medium.com/@Harshada_Patil](https://medium.com/@Harshada_Patil)
 
