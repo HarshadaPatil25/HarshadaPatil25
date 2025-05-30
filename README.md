@@ -8,9 +8,10 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Harshada_Patil](https://medium.com/@Harshada_Patil)
 
-- 💬 Ask me about **Kubernetes, Ansible, Git&GitHub, GitLab**
+- 💬 Ask me about **Kubernetes, OpenShift, Podman, Linux, Ansible, Git&GitHub, GitLab**
 
-- 📫 How to reach me **harshpatilk8s@gmail.com**
+- 📫 How to reach out?
+  - Send email on **harshpatilk8s@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J0aV3PCzjrdQgmLBDmuRbfZkETi67MMS/view](https://drive.google.com/file/d/1J0aV3PCzjrdQgmLBDmuRbfZkETi67MMS/view)
 
